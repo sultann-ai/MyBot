@@ -1,0 +1,70 @@
+Name: Sultan Mehmood
+Title: Backend Engineer
+Location: Islamabad, Pakistan
+Phone: +92 3079911776
+Email: sultann.pk@gmail.com
+LinkedIn: https://www.linkedin.com/in/sultanx/
+GitHub: github.com/sultann-ai
+
+Education:
+- Bachelor of Science in Artificial Intelligence, National University of Technology Pakistan, Islamabad
+  Duration: October 2022 - June 2026
+
+Skills:
+- Programming Languages: Python, Java, JavaScript, TypeScript, SQL, HTML, CSS
+- Frameworks: Node.js, Express.js, React.js, FastAPI, Flask, TensorFlow, PyTorch, Keras, LangChain, LangGraph, RAG
+- Libraries: Scikit-learn, Matplotlib, OpenCV, NumPy, Seaborn, Pandas, Pickle, NLTK, Transformers (Hugging Face), Chroma
+- Databases: PostgreSQL, SQLite, Prisma, SQLAlchemy, Firebase, Supabase, SQL Server
+- Tools: Git, GitHub, Docker, Containers, Azure, Postman, Streamlit, Tableau, Power BI, Google Colab, Jupyter Notebook, Visual Studio, VS Code, PyCharm, Anaconda, TensorBoard, PromptTools, FAISS
+- Concepts: RESTful APIs, Unit Testing, Microservices, CRUD Operations, Machine Learning, GANs, DCGANs, NLP, LLMs
+- Other: Data preprocessing, Feature engineering, API integration, Database management
+
+Work Experience:
+1. Full Stack Developer Intern, Embrace IT Technologies, Islamabad
+   Duration: July 2025 – September 2025
+   Responsibilities:
+   - Backend and AI model development using Node.js, Express.js, PostgreSQL
+   - LLM fine-tuning and customization
+   - Model deployment and scalability
+   - Integration of AI solutions into production systems
+
+2. Junior Data Engineer, TechScope, New York (Remote)
+   Duration: December 2024 – May 2025
+   Responsibilities:
+   - Designing and optimizing data pipelines and ETL workflows
+   - Data accuracy and storage optimization
+   - Collaborating with data scientists and analysts
+   - Implementing data visualization and automation tools
+
+Projects:
+- AI-Based Recruitment System (SaaS), August 2025
+  Tech Stack: FastAPI, PostgreSQL, SQLAlchemy, LangChain, RAG
+  Description: CV classification, CV–JD matching, automated quiz generation using Generative AI.
+
+- Fake News Detection Chatbot, August 2025
+  Tech Stack: React, Node.js, OpenAI API, Custom Fine-tuning
+  Description: Classifies headlines as fake or real using RAG and fine-tuned LLMs.
+
+- Tweet Classification and Analysis System, January 2025
+  Tech Stack: FastAPI, Firebase, HTML/CSS, Twitter API, LangChain
+  Description: Fetches and classifies tweets, generates daily summary reports.
+
+- Brain Tumor Detection System, November 2024
+  Tech Stack: Python, TensorFlow/Keras, NumPy, Matplotlib, OpenCV
+  Description: CNN, MLP, VGG16 models with image preprocessing for tumor detection.
+
+Certifications:
+1. Google Advanced Data Analytics Specialization
+2. IBM Generative AI Engineering Specialization
+3. IBM Generative AI Engineering with LLMs
+4. Meta Front-End Development Specialization
+5. Google The Nuts and Bolts of Machine Learning
+6. IBM Introduction to Deep Learning & Neural Networks with Keras
+7. Stanford Supervised Machine Learning: Regression and Classification
+8. DeepLearning.AI Build Basic GANs
+9. Coursera Deep Learning with PyTorch: GANs
+10. Google Foundations: Data, Data, Everywhere
+11. Google Regression Analysis: Simplify Complex Data Relationships
+12. Google Advanced Data Analytics Capstone
+13. Google Foundations of Data Science
+14. Google Go Beyond the Numbers: Translate Data into Insights
